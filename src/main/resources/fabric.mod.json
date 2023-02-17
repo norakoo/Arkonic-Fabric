@@ -1,0 +1,41 @@
+{
+	"schemaVersion": 1,
+	"id": "arkonic",
+	"version": "${version}",
+	"name": "Arkonic",
+	"description": "Arkonic is a Minecraft mod that aim to add a lot of features in the game.",
+	"authors": [
+		"Norako_",
+		"Nightclaw Studio"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/arkonic/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.norako.arkonic.Arkonic"
+		],
+		"client": [
+			"net.norako.arkonic.ArkonicClient"
+		],
+		"fabric-datagen": [
+			"net.norako.arkonic.ArkonicDataGenerator"
+		]
+	},
+	"mixins": [
+		"arkonic.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.14.14",
+		"minecraft": "~1.19.3",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
