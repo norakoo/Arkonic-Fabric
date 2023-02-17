@@ -2,6 +2,8 @@ package net.norako.arkonic;
 
 import net.fabricmc.api.ModInitializer;
 
+import net.norako.arkonic.block.ModBlocks;
+import net.norako.arkonic.item.ModItems;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -11,6 +13,7 @@ public class Arkonic implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
-		LOGGER.info("Hello Fabric world!");
+		ModItems.registerModItems();
+		ModBlocks.registerModBlocks();
 	}
 }
