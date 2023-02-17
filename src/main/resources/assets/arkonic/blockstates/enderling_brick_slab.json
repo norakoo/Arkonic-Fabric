@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "arkonic:block/enderling_brick_slab"
+    },
+    "type=double": {
+      "model": "arkonic:block/enderling_bricks"
+    },
+    "type=top": {
+      "model": "arkonic:block/enderling_brick_slab_top"
+    }
+  }
+}

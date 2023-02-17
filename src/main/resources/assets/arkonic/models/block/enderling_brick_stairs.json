@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "arkonic:block/enderling_bricks",
+    "side": "arkonic:block/enderling_bricks",
+    "top": "arkonic:block/enderling_bricks"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "#minecraft:wooden_stairs",
+    "arkonic:enderling_brick_stairs"
+  ]
+}

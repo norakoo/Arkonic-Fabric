@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "arkonic:enderling_bricks"
+  },
+  "result": "arkonic:enderling_brick_stairs"
+}

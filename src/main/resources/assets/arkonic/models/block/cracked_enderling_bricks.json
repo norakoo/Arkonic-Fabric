@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "arkonic:block/cracked_enderling_bricks"
+  }
+}

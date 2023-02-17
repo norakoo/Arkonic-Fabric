@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "category": "blocks",
+  "cookingtime": 200,
+  "experience": 0.1,
+  "ingredient": {
+    "item": "arkonic:enderling_bricks"
+  },
+  "result": "arkonic:cracked_enderling_bricks"
+}

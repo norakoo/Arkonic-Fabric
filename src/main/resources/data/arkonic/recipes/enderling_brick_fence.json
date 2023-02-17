@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "arkonic:enderling_brick"
+    },
+    "W": {
+      "item": "arkonic:enderling_bricks"
+    }
+  },
+  "pattern": [
+    "W#W",
+    "W#W"
+  ],
+  "result": {
+    "count": 6,
+    "item": "arkonic:enderling_brick_fence"
+  }
+}

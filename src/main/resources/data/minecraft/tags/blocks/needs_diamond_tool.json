@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "arkonic:enderling_bricks",
+    "arkonic:enderling_brick_stairs",
+    "arkonic:enderling_brick_slab",
+    "arkonic:enderling_brick_wall",
+    "arkonic:enderling_brick_fence",
+    "arkonic:cracked_enderling_bricks",
+    "arkonic:chiseled_enderling_bricks"
+  ]
+}
