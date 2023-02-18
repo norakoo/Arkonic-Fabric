@@ -1,5 +1,6 @@
 {
   "item.arkonic.enderling_brick": "Enderling Brick",
+  "item.arkonic.stalker_spawn_egg": "Stalker Spawn Egg",
 
   "block.arkonic.enderling_bricks": "Enderling Bricks",
   "block.arkonic.cracked_enderling_bricks": "Cracked Enderling Bricks",
@@ -7,5 +8,7 @@
   "block.arkonic.enderling_brick_slab": "Enderling Brick Slab",
   "block.arkonic.enderling_brick_wall": "Enderling Brick Wall",
   "block.arkonic.enderling_brick_fence": "Enderling Brick Fence",
-  "block.arkonic.chiseled_enderling_bricks": "Chiseled Enderling Bricks"
+  "block.arkonic.chiseled_enderling_bricks": "Chiseled Enderling Bricks",
+
+  "entity.arkonic.stalker": "Stalker"
 }
