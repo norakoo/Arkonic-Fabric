@@ -29,7 +29,7 @@ public class StalkerEntity extends HostileEntity implements GeoEntity {
 
     public static DefaultAttributeContainer.Builder setAttributes() {
         return HostileEntity.createMobAttributes()
-                .add(EntityAttributes.GENERIC_MAX_HEALTH, 50.0D)
+                .add(EntityAttributes.GENERIC_MAX_HEALTH, 125.0D)
                 .add(EntityAttributes.GENERIC_ATTACK_DAMAGE, 12.0f)
                 .add(EntityAttributes.GENERIC_ATTACK_SPEED, 1.0f)
                 .add(EntityAttributes.GENERIC_MOVEMENT_SPEED, 0.2f)

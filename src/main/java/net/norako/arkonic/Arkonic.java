@@ -30,7 +30,7 @@ public class Arkonic implements ModInitializer {
 			entries.addAfter(Items.NETHER_BRICK, ModItems.ENDERLING_BRICK);
 		});
 		ItemGroupEvents.modifyEntriesEvent(ItemGroups.SPAWN_EGGS).register(entries -> {
-			entries.addAfter(Items.ZOMBIFIED_PIGLIN_SPAWN_EGG, ModItems.STALKER_SPAWN_EGG);
+			entries.addAfter(Items.SQUID_SPAWN_EGG, ModItems.STALKER_SPAWN_EGG);
 		});
 
 		FabricDefaultAttributeRegistry.register(ModEntities.STALKER, StalkerEntity.setAttributes());
